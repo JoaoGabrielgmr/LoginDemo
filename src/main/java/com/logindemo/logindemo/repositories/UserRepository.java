@@ -13,6 +13,7 @@ import com.logindemo.logindemo.domain.User;
  *
  * @author jggmr
  */
+
 public interface UserRepository extends JpaRepository<User, String>{
 
 }
